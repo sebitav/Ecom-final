@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "zapatos",
+    "descripcion": "zapatos",
+    "codigo": "123456",
+    "foto": "http://foto.com",
+    "precio": 150,
+    "stock": 25,
+    "timestamp": 1648515364352
+  },
+  {
+    "id": 2,
+    "nombre": "playstation",
+    "descripcion": "playstation",
+    "codigo": "4613246",
+    "foto": "http://foto.com",
+    "precio": 220,
+    "stock": 30,
+    "timestamp": 1648515364352
+  },
+  {
+    "id": 3,
+    "timestamp": 1648516440814,
+    "nombre": "pc",
+    "descripcion": "pc",
+    "codigo": "123456",
+    "foto": "http://foto.com",
+    "precio": 1150,
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "timestamp": 1648557893635,
+    "nombre": "procesador",
+    "descripcion": "procesador",
+    "codigo": "123456",
+    "foto": "http://foto.com",
+    "precio": 750,
+    "stock": 15
+  }
+]
